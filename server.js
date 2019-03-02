@@ -12,7 +12,7 @@ var app = express();
 var PORT = process.env.PORT || 3000;
 
 // Access to CSS files
-app.use(express.static(path.join(__dirname, "./app/public")));
+app.use(express.static(path.join(__dirname, "./public")));
 
 // Sets up the Express app to handle data parsing
 app.use(bodyParser.json());

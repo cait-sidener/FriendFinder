@@ -52,7 +52,7 @@ var friendsArray = [
 
     {
         name: "Lola",
-        photo: "https://www.telegraph.co.uk/news/picturegalleries/howaboutthat/12171539/Posing-pooch-Great-Dane-dog-caught-on-camera-pulling-funny-faces-in-pictures.html?frame=3581700",
+        photo: "https://secure.i.telegraph.co.uk/multimedia/archive/03581/great-dane-face-oo_3581694k.jpg",
         scores: [
             2,
             2,

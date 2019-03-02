@@ -1,0 +1,38 @@
+#big-button {
+    background-color: #337ab7;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.display-4 {
+    font-size: 63px;
+    font-weight: 500;
+    margin-left: 0px;
+    padding: 2%;
+}
+
+h2 {
+    font-weight: 500;
+    margin-left: 0px;
+    padding: 2%;
+}
+
+a {
+    color: #337ab7;
+}
+
+.links {
+    margin-left:10%;
+}
+
+.modal-content img {
+    width:100%;
+}
+
+#submitButton {
+    background-color: #337ab7;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
